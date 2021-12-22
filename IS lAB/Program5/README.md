@@ -4,4 +4,4 @@ Write a C/java program to implement the Blowfish algorithm Logic
 
 ### Output
 
-![output](DES.png)
+![output](BlowFish.png)
