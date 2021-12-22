@@ -4,4 +4,4 @@ Write a C Program that contains a string with a value 'Hello World'. The Program
 
 ### Output
 
-![output](exp1.jpg)
+![output](exp1.png)
